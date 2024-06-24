@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmechery&label=Profile%20views&color=0e75b6&style=plastic" alt="rmechery" /> </p>
 
-- 🔭 I’m currently working on [rmechery.github.io (portfolio)](ryanmechery.com)
+- 🔭 I’m currently working on [rmechery.github.io (portfolio)](https://www.ryanmechery.com)
 
 - 🌱 I’m currently learning **ReactNative**
 
 - 📫 How to reach me **ryanmechery@gmail.com**
+
+-  ⚠️ Currrently Working on updating my stats below 😅!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
