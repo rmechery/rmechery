@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ryanmechery@gmail.com**
 
--  ⚠️ Currrently Working on updating my stats below 😅!
+-  ⚠️ Working on improving my stats below 😅!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
